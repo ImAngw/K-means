@@ -1,3 +1,3 @@
 # K-means
-Parallel version of k-means. '\n'
+Parallel version of k-means. "\n"
 Hello
