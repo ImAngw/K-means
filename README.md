@@ -1,4 +1,3 @@
 # K-means
-Parallel version of k-means.
-
-# Settings
+Parallel version of k-means. '\n'
+Hello
